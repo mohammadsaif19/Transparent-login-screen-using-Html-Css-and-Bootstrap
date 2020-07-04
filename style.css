@@ -1,0 +1,27 @@
+body{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('img/home.jfif');
+
+}
+body img{
+	width: 100%;
+	-webkit-filter: blur(10px);
+
+}
+#form{
+	padding: 20px;
+	margin-top: 50px;
+	border: 1px solid #03A9f4;
+	border-radius: 10px;
+	background: #607d8b2e;
+
+}
+#form h2{
+font-weight: bold;
+text-align: center;
+border-bottom: 3px solid #03A9f4;
+padding: 8px;
+}
+#form label{
+	padding: 8px;
+	font-weight: bold;
+}
